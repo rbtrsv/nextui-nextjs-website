@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/z_next_js_tut
 /.pnp
 .pnp.js
 
